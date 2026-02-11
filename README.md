@@ -88,23 +88,3 @@ The dataset was cleaned and prepared before analysis.
 
 (Insights can be customized further based on business needs.)
 
----
-## ▶️ How to Use the Project
-
-1. Download the repository.
-2. Open the `sales_data.xlsm` file in Microsoft Excel.
-3. Enable macros (VBA) if prompted.
-4. Use slicers and filters to interact with the dashboard.
-
----
-
-## 👤 Author
-
-**Amr Hashem**
-Aspiring Data Analyst | Excel | Power BI | SQL
-
-📎 GitHub: [https://github.com/AmrHashem607](https://github.com/AmrHashem607)
-
----
-
-⭐ If you find this project useful, feel free to give it a star!
